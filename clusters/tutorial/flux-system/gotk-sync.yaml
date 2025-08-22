@@ -9,7 +9,7 @@ spec:
   gitImplementation: libgit2
   interval: 1m0s
   ref:
-    branch: master
+    branch: main
   secretRef:
     name: flux-ado-identity
   timeout: 20s
